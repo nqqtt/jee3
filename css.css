@@ -1,5 +1,5 @@
 body {
-            background-color: #ffffff;
+            background-color: #919191;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -9,7 +9,7 @@ body {
         }
 
         header {
-            background-color: #ff3b9d;
+            background-color: #000000;
             text-align: center;
             padding: 0px;
         }
@@ -19,7 +19,7 @@ body {
         }
 
         nav {
-            background-color: #6024c2;
+            background-color: #d43d3d;
             text-align: center;
             padding: 0px;
         }
@@ -51,7 +51,7 @@ nav a:hover {
         }
 
         footer {
-            background-color: #ff3b9d;
+            background-color: #000000;
             text-align: center;
             padding: 10px;
         }
